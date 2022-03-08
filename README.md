@@ -1,1 +1,1 @@
-# apple-kor-clone
+# apple-kr-clone
